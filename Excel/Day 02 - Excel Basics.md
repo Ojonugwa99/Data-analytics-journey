@@ -15,7 +15,12 @@
 
 ## Formulas & Functions
 
-* What formulas are
-* Basic mathematical formulas
-* Understanding functions
-* Using formulas in Excel
+* Formulas Intro
+* Function Intro
+* Logical Functions
+* Math Functions
+* Statistical Functions
+* Array Formulas
+* Lookup Function
+* Text Functions
+* Date and Time Functions
