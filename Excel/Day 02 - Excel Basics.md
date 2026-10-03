@@ -19,10 +19,3 @@
 * Basic mathematical formulas
 * Understanding functions
 * Using formulas in Excel
-
-## Charts
-
-* Introduction to charts
-* Creating charts
-* Understanding different chart types
-* Basic chart formatting
