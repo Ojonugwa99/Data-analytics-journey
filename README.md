@@ -37,4 +37,11 @@ To build strong practical data analysis skills and develop a portfolio of real-w
 
 ---
 
+### 🟢 Day 04 — Excel Functions & Data Analysis
+
+📁 [View Day 04](Excel/Day%2004%20-%20Excel%20Functions%20%26%20Data%20Analysis.md)
+
+---
+
+
 **Day by day. Skill by skill. Project by project.** 🚀
