@@ -43,5 +43,12 @@ To build strong practical data analysis skills and develop a portfolio of real-w
 
 ---
 
+### 🟢 Day 05 — Excel Practical Assignment
+
+📁 [View Day 05](Excel/Day%2005%20-%20Excel%20Practical%20Assignment.md)
+
+---
+
+
 
 **Day by day. Skill by skill. Project by project.** 🚀
