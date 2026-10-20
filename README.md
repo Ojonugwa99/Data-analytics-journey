@@ -49,6 +49,12 @@ To build strong practical data analysis skills and develop a portfolio of real-w
 
 ---
 
+### 🟢 Day 06 — Excel Conditional Formatting
+
+📁 [View Day 06](Excel/Day%2006%20-%20Conditional-Formatting.md)
+
+---
+
 
 
 **Day by day. Skill by skill. Project by project.** 🚀
