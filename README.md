@@ -55,6 +55,10 @@ To build strong practical data analysis skills and develop a portfolio of real-w
 
 ---
 
+### 🟢 Day 07 — Excel LOOKUP Function
+
+📁 [View Day 07](Excel/Day%2007%20-%20Excel%20LOOKUP%20Function.md)
+
 
 
 **Day by day. Skill by skill. Project by project.** 🚀
